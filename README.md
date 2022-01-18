@@ -9,7 +9,7 @@
 
 🌱 I like working in **JavaScript, React, React Native**
 
-🎨 My portfolio is available at [www.amundring.no](https://amund-ring.github.io/Portfolio-Website/)
+🎨 My portfolio is available at [www.amundring.no](www.amundring.no)
 
 📄 Download my resume [here](https://amund-ring.github.io/Portfolio-Website/#skills)
 
