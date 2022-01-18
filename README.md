@@ -9,7 +9,7 @@
 
 🌱 I like working in **JavaScript, React, React Native**
 
-🎨 My portfolio is available [here](https://practical-aryabhata-e4656c.netlify.app)
+🎨 My portfolio is available [here](https://practical-aryabhata-e4656c.netlify.app#portfolio)
 
 📄 Download my resume [here](https://practical-aryabhata-e4656c.netlify.app#skills)
 
