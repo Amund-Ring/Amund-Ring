@@ -9,9 +9,9 @@
 
 🌱 I like working in **JavaScript, React, React Native**
 
-🎨 My portfolio is available at [www.amundring.no](http://www.amundring.no)
+🎨 My portfolio is available [here](https://practical-aryabhata-e4656c.netlify.app)
 
-📄 Download my resume [here](https://amund-ring.github.io/Portfolio-Website/#skills)
+📄 Download my resume [here](https://practical-aryabhata-e4656c.netlify.app#skills)
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
