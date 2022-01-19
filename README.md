@@ -1,7 +1,7 @@
 
 ![Header](https://github.com/Amund-Ring/Amund-Ring/blob/main/header.png?raw=true)
 
-[![Website](https://img.shields.io/website?label=My%20Portfolio%20Website&style=for-the-badge&up_message=go&url=https%3A%2F%2Fwww.amundring.no)](https://www.amundring.no)
+[![Website](https://img.shields.io/website?label=www.amundring.no&style=for-the-badge&up_message=go&url=https%3A%2F%2Fwww.amundring.no)](https://www.amundring.no)
 
 
 ## Amund Ring - Full Stack JavaScript Developer 👨🏻‍💻🌈
