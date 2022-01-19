@@ -1,7 +1,7 @@
 
 ![Header](https://github.com/Amund-Ring/Amund-Ring/blob/main/header.png?raw=true)
 
-[![Website](https://img.shields.io/website?label=My%20Portfolio%20Website&style=for-the-badge&up_message=go&url=https%3A%2F%2Famund-ring.github.io%2Fportfolio%2F)](https://practical-aryabhata-e4656c.netlify.app)
+[![Website](https://img.shields.io/website?label=My%20Portfolio%20Website&style=for-the-badge&up_message=go&url=https%3A%2F%2Famund-ring.github.io%2Fportfolio%2F)](https://www.amundring.no)
 
 
 ## Amund Ring - Full Stack JavaScript Developer 👨🏻‍💻🌈
@@ -9,9 +9,9 @@
 
 🌱 I like working in **JavaScript, React, React Native**
 
-🎨 My portfolio is available [here](https://practical-aryabhata-e4656c.netlify.app#portfolio)
+🎨 My portfolio is available at [www.amundring.no](https://www.amundring.no)
 
-📄 Download my resume [here](https://practical-aryabhata-e4656c.netlify.app#skills)
+📄 Download my resume [here](https://www.amundring.no#skills)
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
