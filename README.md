@@ -1,3 +1,4 @@
+![Header](https://github.com/Amund-Ring/Amund-Ring/blob/main/header.png?raw=true)
 
 
 [![Website](https://img.shields.io/website?label=www.amundring.no&style=for-the-badge&up_message=go&url=https%3A%2F%2Fwww.amundring.no)](https://www.amundring.no)
