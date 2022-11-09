@@ -7,7 +7,7 @@
 ## Amund Ring - Full Stack JavaScript Developer 👨🏻‍💻
 
 
-🌱 I like working with **JavaScript, React, React Native, Next.js, Tailwind CSS and more...**
+🌱 I like working with **Swift, JavaScript, React, React Native, Next.js, Tailwind CSS and more...**
 
 🎨 My portfolio is available at [www.amundring.no](https://www.amundring.no)
 
