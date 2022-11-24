@@ -11,7 +11,7 @@
 
 🎨 My portfolio is available at [www.amundring.no](https://www.amundring.no)
 
-📄 Download my resume [here](https://www.amundring.no#skills)
+📄 Download my resume [here](https://amundring.no/CV_Amund_Ring.e3a1034b.pdf)
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
