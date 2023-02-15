@@ -1,8 +1,7 @@
 
 ## Amund Ring - Software Developer 👨🏻‍💻
 
-
-🌱 I like working with **Swift, JavaScript, React, React Native, Next.js, Tailwind CSS and more...**
+<br />
 
 🎨 My portfolio is available at [www.amundring.no](https://www.amundring.no)
 
