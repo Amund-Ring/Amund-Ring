@@ -1,21 +1,6 @@
 
 ## Amund Ring - Software Developer 👨🏻‍💻
 
-<br />
-
-🎨 My portfolio is available at [www.amundring.no](https://www.amundring.no)
-
-📄 Download my resume [here](https://amundring.no/CV_Amund_Ring.3c5cad00.pdf)
-
-<h4 align="left">Connect with me:</h4>
-<p align="left">
- 📫 ring.amund@gmail.com
-<p align="left">
-<a href="https://linkedin.com/in/amundring" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amundring" height="30" width="40" /></a>
-<a href="https://instagram.com/amundring" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amundring" height="30" width="40" /></a>
-</p>
-
-<br/>
 
 
 <p align="left">
