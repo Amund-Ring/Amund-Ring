@@ -1,6 +1,6 @@
 # Amund Ring - Frontend & Mobile App Developer
 
-I’m a creative developer dedicated to building user-friendly, visually appealing applications. With a strong background in front-end and mobile app development, I aim to create simple, enjoyable user experiences.
+I’m a creative developer dedicated to building user-friendly, visually appealing applications. With a strong background in frontend and mobile app development, I aim to create simple, enjoyable user experiences.
 
 ## 🚀 Skills
 
