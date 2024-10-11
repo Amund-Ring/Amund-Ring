@@ -23,12 +23,12 @@ I’m a creative developer dedicated to building user-friendly, visually appeali
 
 - **[Meditations by Marcus Aurelius](https://apple.co/3Mygopg)**
 - **[ACIM Workbook](https://apple.co/4cWbCfY)**
-- **[Letters from a Stoic](https://apple.co/3NtfudT)**
+- **[Letters from a Stoic](https://apple.co/48kprUZ)**
 
 ##
 
 <p>
   &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://apple.co/3Mygopg"><img src="./meditations.png" alt="Meditations" width="255" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://apple.co/4cWbCfY"><img src="./acim.png" alt="ACIM Workbook" width="255" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://apple.co/3NtfudT"><img src="./letters.png" alt="Letters from a Stoic" width="255" /></a>
+  <a href="https://apple.co/48kprUZ"><img src="./letters.png" alt="Letters from a Stoic" width="255" /></a>
 </p>
