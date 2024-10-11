@@ -22,5 +22,5 @@ I’m a creative developer dedicated to building user-friendly, visually appeali
 ## 📱 Published Apps
 
 - **[Meditations by Marcus Aurelius](https://apple.co/3Mygopg)**
-- **[Letters from a Stoic](https://apple.co/3zXKfES)**  
+- **[Letters from a Stoic](https://apple.co/3NtfudT)**  
 - **[ACIM Workbook](https://apple.co/4cWbCfY)**  
