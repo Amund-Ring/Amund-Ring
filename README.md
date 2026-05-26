@@ -1,6 +1,12 @@
-# Amund Ring - Frontend & Mobile App Developer
+# Amund Ring — Frontend & iOS Developer
 
-I’m a creative developer dedicated to building user-friendly, visually appealing applications. With a strong background in frontend and mobile app development, I aim to create simple, enjoyable user experiences.
+Frontend developer at Schibsted and iOS developer, dedicated to building user-friendly, visually appealing applications.
+
+Four apps on the App Store: one native SwiftUI build, three in React Native. I'm currently porting the React Native ones over to Swift.
+
+One of the apps runs on a subscription model and brings in steady monthly revenue. The others are paid apps and sell regularly too.
+
+
 
 ## 🚀 Skills
 
