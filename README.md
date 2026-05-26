@@ -28,7 +28,7 @@ I’m a creative developer dedicated to building user-friendly, visually appeali
 ##
 
 <p>
-    <a href="https://apple.co/4dRUivg"><img src="./florence.png" alt="Florence Scovel Shinn" width="767" /></a>&nbsp;
+    <a href="https://apple.co/4dRUivg"><img src="./florence.png" alt="Florence Scovel Shinn" width="766" /></a>&nbsp;
   <a href="https://apple.co/3Mygopg"><img src="./meditations.png" alt="Meditations" width="250" /></a>&nbsp;
   <a href="https://apple.co/4cWbCfY"><img src="./acim.png" alt="ACIM Workbook" width="250" /></a>&nbsp;
   <a href="https://apple.co/48kprUZ"><img src="./letters.png" alt="Letters from a Stoic" width="250" /></a>
