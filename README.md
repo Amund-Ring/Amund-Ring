@@ -21,6 +21,7 @@ I’m a creative developer dedicated to building user-friendly, visually appeali
 
 ## 📱 Published Apps
 
+- **[Florence Scovel Shinn](https://apple.co/4dRUivg)**
 - **[Meditations by Marcus Aurelius](https://apple.co/3Mygopg)**
 - **[ACIM Workbook](https://apple.co/4cWbCfY)**
 - **[Letters from a Stoic](https://apple.co/48kprUZ)**
